@@ -1,4 +1,4 @@
-
+https://github.com/KhunHtetzNaing/ADB-OTG/commit/d668f07ec4fa31d998a2b6ab9225ffb1ac44eec4
 # ADB⚡OTG
 
 This project is a fork of the [flashbot](https://github.com/wuxudong/flashbot) developed by [wuxudong](https://github.com/wuxudong).
